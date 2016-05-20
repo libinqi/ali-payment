@@ -1,0 +1,27 @@
+{
+  "name": "ali-payment",
+  "version": "1.0.0",
+  "description": "nodejs alipay模块的自定义扩展",
+  "main": "lib/alipay.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libinqi/ali-payment.git"
+  },
+  "keywords": [
+    "nodejs",
+    "alipay"
+  ],
+  "author": "libiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libinqi/ali-payment/issues"
+  },
+  "homepage": "https://github.com/libinqi/ali-payment#readme",
+  "dependencies": {
+    "xml2js": "^0.4.16",
+    "xmldom": "^0.1.22"
+  }
+}
